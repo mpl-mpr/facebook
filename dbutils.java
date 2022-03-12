@@ -8,4 +8,4 @@ Adding to execute stash command
 =======
 Adding new line in remote repo
 >>>>>>> 20bc746b20d1e5b8b3aa5d93ca799e0a62e88ba7
-
+Adding new line in remote repo to fetch to local repo
